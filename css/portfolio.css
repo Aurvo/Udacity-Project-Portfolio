@@ -29,6 +29,8 @@ h4 {
 	font-family: "Lato", sans-serif;
 }
 
+/*This hr style was inspired by code samples from
+http://www.syntaxxx.com/how-to-style-hr-with-css/ */
 hr {
 	height: 4px;
 	color: #7d97ad; 
